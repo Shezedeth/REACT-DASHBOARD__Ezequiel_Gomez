@@ -1,6 +1,6 @@
 export const TopBar = () => {
     return (
-        <nav className="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+        <nav className="navbar navbar-expand navbar-light topbar mb-4 static-top shadow">
 
 
             <button id="sidebarToggleTop" className="btn btn-link d-md-none rounded-circle mr-3">
@@ -33,8 +33,8 @@ export const TopBar = () => {
 
                 <li className="nav-item dropdown no-arrow">
                     <a className="nav-link dropdown-toggle" href="/" id="userDropdown">
-                        <span className="mr-2 d-none d-lg-inline text-gray-600 small">Jordan Walke</span>
-                        <img className="img-profile rounded-circle" src="/images/jordan-walke.png" alt="Jordan Walke - Creador de React" width="60" />
+                        <span className="mr-2 d-none d-lg-inline text-gray-800 small">Ezequiel Gomez</span>
+                        <img className="img-profile rounded-circle" src="/images/200w.gif" alt="Ezequiel Gomez - Creador de React" width="60" />
                     </a>
                 </li>
 
